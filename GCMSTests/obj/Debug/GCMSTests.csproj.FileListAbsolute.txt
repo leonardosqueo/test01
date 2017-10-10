@@ -1,0 +1,49 @@
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\bin\Debug\GCMSTests.exe.config
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\bin\Debug\GCMSTests.exe
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\bin\Debug\GCMSTests.pdb
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.csprojResolveAssemblyReference.cache
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Form1.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.FormContainer.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Properties.Resources.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.csproj.GenerateResource.Cache
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.exe
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.pdb
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.MDIParent1.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.MakeConnection.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.ResponseRequestTabs.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Category.List.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\bin\Debug\Newtonsoft.Json.dll
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\bin\Debug\Newtonsoft.Json.xml
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.PostHistory.resources
+g:\datosleo\documentos\visual studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Sniffer.resources
+G:\DatosLeo\Documentos\Visual Studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.DetailsForm.resources
+G:\DatosLeo\Documentos\Visual Studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Details.resources
+G:\DatosLeo\Documentos\Visual Studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Category.Edit.resources
+G:\DatosLeo\Documentos\Visual Studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Product.Create.resources
+G:\DatosLeo\Documentos\Visual Studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Product.List.resources
+G:\DatosLeo\Documentos\Visual Studio 2015\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Product.Edit.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\bin\Debug\GCMSTests.exe.config
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.exe
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.pdb
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\bin\Debug\GCMSTests.exe
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\bin\Debug\GCMSTests.pdb
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\bin\Debug\Newtonsoft.Json.dll
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\bin\Debug\Newtonsoft.Json.xml
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.csprojResolveAssemblyReference.cache
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Form1.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.FormContainer.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.MakeConnection.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.MDIParent1.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.PostHistory.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Properties.Resources.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.ResponseRequestTabs.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Sniffer.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Details.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.DetailsForm.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Category.Edit.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Category.List.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Product.Edit.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Product.Create.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Product.List.resources
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.csproj.GenerateResource.Cache
+G:\DatosLeo\Projects\GCMSTests\GCMSTests\obj\Debug\GCMSTests.Tests.Sale.List.resources
