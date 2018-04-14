@@ -57,6 +57,7 @@ namespace GCMSTests.Tests.Product
             if (this.Item.Id == 0)
             {
                 this.Item.Code = this.Code.Text;
+                this.Item.AutoMeta = true;
             }
             this.Item.ParentId = int.Parse(this.ParentId.Text);
             Item.BoxHeight = (!string.IsNullOrEmpty(BoxHeight.Text) ? (decimal?)decimal.Parse(BoxHeight.Text.Replace(",", "."), System.Globalization.CultureInfo.InvariantCulture) : null);
